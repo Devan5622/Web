@@ -30,10 +30,16 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 ### Table of Content
 1. [Introduction](#introduction)
 2. [Illustrations](#Illustrations)
-3. Example Of Use 
+3.  Scope Of Functionality
+4. Example Of Use 
    1. [Requirements](#requirements)
    2. [Execution](#execution)
    3. [Website](#website)
+   
+5.Project Steps  
+6.Sources 
+
+   7.Other Information
 
 ## 1.Introduction
 In this project, you can do the following:
@@ -44,17 +50,19 @@ In this project, you can do the following:
 5. Delete a specific Employee record.
 
 
-## 2.Illustrations
+   ## 2.Illustrations
 ![Index](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(94).png)
 
 ![Submit](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(95).png)
+## In this we can se token number, command name and database name.
 
 ![Update](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(96).png)
--In this Above Dialogue Box Showing that Data updated in Record Number 6.
-![Database]() 
-![Dashboard]()
+## In this Above Dialogue Box Showing that Data updated in Record Number 6.
+
+![Database](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(97).png) 
+## After Updation all data is showing on Json Database. So many operation we can do on Json Like Delete,Update and GET etc.
    
-   ## Example Of Use
+   ## 3.Example Of Use
 #### Requirements
   * Web Browser
   * Database Connection Token
@@ -66,12 +74,12 @@ In this project, you can do the following:
 * To come back on index page
   * click <- arrow on Browser
 
-### Scope of functionalities
+   ### 4.Scope of functionalities
 * It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
 * Can be further improved by addidng additional fields and can be made into a working DB manager.
 
 
-## Project Steps
+   ## 5.Project Steps
 * Firstly added some scripts in this like: Jquery,Bootstrap and Javascript Library using script Elements. `<script>`
 * After this create web form using html tags and input types are: EmployeeID, Employee Name and Email. `<form>,<label> and <input> etc.`
 * Through the JavaScript validating the form data on client PC after this send the data to the web server. So for this we use the `ValidateGetFormData()` function.
@@ -81,14 +89,14 @@ In this project, you can do the following:
 * But Replace both `createPUTRequest()` and `executeCommand()` function using single function`executeCommandAtGivenBaseUrl()`. Because `executeCommandAtGivenBaseUrl()`
 this fuction directly available of JavaScript Library, So for this we directly add the URL link and then all work is done.
 
-# Sources
+   # 6.Sources
 [https://login2explore.com/jpdb/docs.html]
 
 [https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js]
 
 [chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/index.html#requests]
 
-# Other Information
+   # 7.Other Information
 
 #### Name: Devanshu Siwach
 #### Email: devanshusiwach15@gmail.com
