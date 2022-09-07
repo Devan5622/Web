@@ -11,6 +11,6 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 
 ## JsonPowerDB related code
 
-[Documentation Link](http://login2explore.com/jpdb/docs.html)
+[Code Link](https://github.com/Devan5622/Web/blob/main/index.html)
 
 
