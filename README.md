@@ -47,7 +47,7 @@ In this project, you can do the following:
 ## Screenshots
 ![Index](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(94).png)
 ![Submit](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(95).png)
-![Update]( )
+![Database]( )
 ![Database]() 
 ![Dashboard]()
    
