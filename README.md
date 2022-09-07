@@ -81,6 +81,15 @@ In this project, you can do the following:
 * But Replace both `createPUTRequest()` and `executeCommand()` function using single function`executeCommandAtGivenBaseUrl()`. Because `executeCommandAtGivenBaseUrl()`
 this fuction directly available of JavaScript Library, So for this we directly add the URL link and then all work is done.
 
+# Sources
+[https://login2explore.com/jpdb/docs.html]
+[https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js]
+
+# Other Information
+
+#### Name: Devanshu Siwach
+#### Email: devanshusiwach15@gmail.com
+
 
 
 
