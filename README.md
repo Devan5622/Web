@@ -75,7 +75,12 @@ In this project, you can do the following:
 * Firstly added some scripts in this like: Jquery,Bootstrap and Javascript Library using script Elements. `<script>`
 * After this create web form using html tags and input types are: EmployeeID, Employee Name and Email. `<form>,<label> and <input> etc.`
 * Through the JavaScript validating the form data on client PC after this send the data to the web server. So for this we use the `ValidateGetFormData()` function.
-* Using `JSON.Stringify()` method converts a JavaScript Value to a JSON string,.
+* Using `JSON.Stringify()` method converts a JavaScript Value to a JSON string.
+* For Put Request we use `createPUTRequest()` with the help of this creating the data and update an existing data.
+* And For Executeing the data we use `executeCommand()`.
+* But Replace both `createPUTRequest()` and `executeCommand()` function using single function`executeCommandAtGivenBaseUrl()`. Because `executeCommandAtGivenBaseUrl()`
+this fuction directly available of JavaScript Library, So for this we directly add the URL link and then all work is done.
+
 
 
 
