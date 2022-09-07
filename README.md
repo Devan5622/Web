@@ -44,7 +44,7 @@ In this project, you can do the following:
 5. Delete a specific Employee record.
 
 
-## Screenshots
+## 2.Illustrations
 ![Index](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(94).png)
 
 ![Submit](https://github.com/Devan5622/Web/blob/main/Screenshot/Screenshot%20(95).png)
